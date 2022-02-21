@@ -2,7 +2,7 @@
 <br />
 <div align="center">
 
-<h3 align="center">Firebase Auth Go Project</h3>
+<h3 align="center">Firebase Auth Go Starter Kit</h3>
 
   <p align="center">
     Firebase ready starter API project written in Go
@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a demonstration starter kit for creating an App that utilises Googles Firebase Authentication system.
+This is a starter project for creating an App that utilises Googles Firebase Authentication system.
 
 It allows you to get started with verifying tokens sent from your front-end application and focus on developing your application.
 
@@ -81,8 +81,13 @@ Manually create an account through the command
 
 When a registered user logs in for the first time, their UUID is captured and recorded.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+### Available commands
 
+- Create user & optional project `go run main.go user:create`
+- Run migrations & create test user `go run main.go migrate`
+- Serve application `go run main.go serve`
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- ROADMAP -->
