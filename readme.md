@@ -1,15 +1,6 @@
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/sjmc11/firebase-auth-go-kit">
-    <img src="/logo.svg" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">Firebase Auth Go Project</h3>
 
