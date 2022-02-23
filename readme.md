@@ -17,7 +17,7 @@
 
 This is a starter project for creating an App that utilises Googles Firebase Authentication system.
 
-It allows you to get started with verifying tokens sent from your front-end application and focus on developing your application.
+It allows you to get started with verifying tokens sent from your front-end interface and focus on developing your application.
 
 Here's why:
 * Extendable minimalist project
